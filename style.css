@@ -130,17 +130,37 @@ hr{
     padding: 15rem;
     background-image: url("https://travelwp.physcode.com/wp-content/uploads/2016/09/bg-popular.jpg")
 }
+.Tlo i{
+    color: #ffb300;
+}
+.Tlo h3{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+.Tlo .ttl{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+.Tlo hr{
+    border: 1px solid white;
+}
 .gallery{
     display: flex;
     justify-content: space-evenly;
     width: 100%;
 }
 .wndw{
-    width: 20%;
+    width: 15%;
     margin-right: 40px;
 }
 .wndw img{
     height: 10rem;
+}
+.about{
+    background-color: white;
+    padding-right: 2rem;
     
 }
 .third{
